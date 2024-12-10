@@ -5,4 +5,4 @@
 
 [SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki)
 
-[E-Utilities API Documentation]([https://github.com/jenpetsmit/eutilites/about](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md))
+[E-Utilities API Documentation](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md)
