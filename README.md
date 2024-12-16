@@ -3,7 +3,7 @@
 
 ## Documentation Samples
 
-[SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki)
+[Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki)
   - Here is the [link to the **current** SRA Toolkit Wiki](https://github.com/ncbi/sra-tools/wiki). My task was to edit a few pages to serve an audience that includes non-developers. My work is linked above. The team decided the work was too detailed for the GitHub and is currently scheduled to be added to the SRA website.
 
 [Updated E-Utilities API Documentation](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md)
