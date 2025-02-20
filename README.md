@@ -15,7 +15,7 @@
   - Here is the [link to the **current** version that does not have instructions to download the databases for personal use](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax). My task here was to create instructions for non-developers to download and use the STAT Tool. The developer team decided the work was too detailed and the project manager is no longer with the company, so the future of this work is on hold.
 
 ## Other work
-* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmit/python/blob/main/webcrawler.md) that I wrote.
+* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmit/python/blob/main/webcrawler.md) 
 * [My first QA Script](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/QA.md)
 
 
