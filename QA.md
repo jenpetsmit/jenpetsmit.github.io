@@ -1,3 +1,7 @@
+layout: page
+title: "Quality Assurance Test Script"
+permalink: /jenpetsmit.github.io/QA
+
 # Quality Assurance Test Script
 
 Here is my first QA test script I wrote. 
