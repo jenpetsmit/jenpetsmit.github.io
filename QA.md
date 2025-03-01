@@ -1,6 +1,6 @@
 layout: page
 title: "Quality Assurance Test Script"
-permalink: /jenpetsmit.github.io/QA
+permalink: /QA
 
 # Quality Assurance Test Script
 
