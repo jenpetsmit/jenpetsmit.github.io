@@ -1,6 +1,6 @@
 layout: page
 title: "Quality Assurance Test Script"
-permalink: /QA
+permalink: /QA.md
 
 # Quality Assurance Test Script
 
