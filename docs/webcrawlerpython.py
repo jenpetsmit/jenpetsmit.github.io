@@ -1,8 +1,6 @@
----
 layout: page
 title: "Web Crawler Python Script"
-permalink: /webcrawlerpython.py
----
+permalink: /docs/webcrawlerpython.py
 
 
 
