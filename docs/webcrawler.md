@@ -1,10 +1,7 @@
----
-title: Web Crawler
 layout: page
-nav_order: 1
 description: "Web Crawler for YouTube Videos for the NCBI Sequence Read Archive."
-permalink: /
----
+permalink: /docs/webcrawler
+
 
 
 
