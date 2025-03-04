@@ -10,11 +10,9 @@ permalink: /docs/webcrawler
 
 Using a book from my library called, "[Mining Social Media](https://socialdata.site/)," I learned how to create a .csv of YouTube videos.  Coincidently, on my work project they wanted to know how many videos our project has on YouTube. I adapted the code to produce the .csv.
 
-[nlm_sra.py](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/nlm_sra.py)
+[nlm_sra.py](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawlerpython.py)
 
-[test for nlm.py](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawlerpython.py)
-
-[youtube_videos_sra.csv](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/youtube_videos_sra.csv)
+[youtube_videos_sra.csv](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawler.csv)
 
 ---
 
