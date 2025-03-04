@@ -1,7 +1,3 @@
-layout: page
-title: "Attempt to Write a YAML in OpenAPI"
-permalink: /docs/yaml
-
 # eutils.yml
 **A Work in Progress**
 ```
