@@ -1,8 +1,3 @@
-layout: page
-title: "Quality Assurance Test Script"
-permalink: /QA
-
-
 # Quality Assurance Test Script
 
 Here is my first QA test script I wrote. 
@@ -37,4 +32,8 @@ You should receive an email within a few minutes that states, "You have Cases th
 
 &nbsp;
 
+---
+
 [Return to main page](https://jenpetsmit.github.io/)
+
+&nbsp;
