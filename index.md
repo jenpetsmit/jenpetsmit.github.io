@@ -36,7 +36,7 @@ My task was to edit a few of the [original pages](https://github.com/ncbi/sra-to
 
 
 ### Other work
-* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmitenpetsmit.github.io/main/blob/main/webcrawler.md) 
+* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmitenpetsmit.github.io/main/blob/main/webcrawler.md)
 * [My first QA Script](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
 * [testing QA](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
 * [testing Web crawler](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawler.md)
