@@ -1,5 +1,4 @@
 ```
-
 # Import all needed libraries 
 # Open the URL and read the API reponse
 # Identify each data point in your JSON and print it to spreadsheet
