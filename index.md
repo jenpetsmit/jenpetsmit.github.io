@@ -16,6 +16,10 @@ The [original documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) was w
 
 &nbsp;
 
+### NIH NCBI Submission Portal Groups Feature
+
+Submitting data to the NCBI Submisson Portal can be done by an individual or a group. A collaborative group of stakeholders worked together together to write the pages of the [Groups Feature](https://submit.ncbi.nlm.nih.gov/help/submission-groups/) published March 2025. I also wrote the Jira tickets and reviewed the developer work for this work.
+
 ### **NIH NCBI SRA Toolkit Wiki**
 
 My task was to edit a few of the [original pages](https://github.com/ncbi/sra-tools/wiki) to serve an audience that includes non-developers. The deveoper team (not the Product Manager) decided the work was too detailed for the GitHub. The work is currently scheduled to >be added to the SRA website.
