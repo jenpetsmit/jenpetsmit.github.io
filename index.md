@@ -3,9 +3,7 @@
 
 ## Documentation Samples
 
-
 &nbsp;
-
 
 ### **NIH NCBI E-Utilities API documentation**
 
@@ -29,7 +27,6 @@ My task was to edit a few of the [original pages](https://github.com/ncbi/sra-to
  - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki) 
 
 &nbsp;
-
 
 ### **NIH NCBI STAT Tool**
 
