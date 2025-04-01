@@ -58,7 +58,7 @@ You should receive an email within a few minutes that states, "You have Cases th
 **Result**
 
  The case becomes _Read-only: Resolved_ and status _Duplicate_
-![Case Read-only: Resolved](https://github.com/user-attachments/assets/d7032a1d-be24-4c08-8b17-fb350b368b29)
+![Case Read-only: Resolved](https://github.com/user-attachments/assets/5edbde52-7db1-42cc-841d-8d7b29d77fca)
 
 
 
