@@ -55,7 +55,11 @@ You should receive an email within a few minutes that states, "You have Cases th
 
  7. Select a different case and click the **Save** button
 
- The case becomes Read-only: Resolved and status Duplicate
+**Result**
+
+ The case becomes _Read-only: Resolved_ and status _Duplicate_
+![Case Read-only: Resolved](https://github.com/user-attachments/assets/d7032a1d-be24-4c08-8b17-fb350b368b29)
+
 
 
 ---
