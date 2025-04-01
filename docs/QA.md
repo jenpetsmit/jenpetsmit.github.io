@@ -1,8 +1,8 @@
 # Quality Assurance Test Scripts
 
-[Script 1](script1)
+[Script 1](QA.md#script-1)
 
-[Scipt 2](script-2)
+[Scipt 2](QA.md#script-2)
 
 Here is my first QA test script I wrote. 
 
