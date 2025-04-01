@@ -6,7 +6,7 @@
 &nbsp;
 
 ## NIH NCBI Genome Onboarding Submission Portal
-For the [Genome Onboarding Submission Portal page](https://submit.ncbi.nlm.nih.gov/about/genome/) I did the following to reduce submission errors:
+For the [Genome Onboarding Submission Portal page](https://submit.ncbi.nlm.nih.gov/about/genome/) I did the following in the _What You Should Expect_ section to reduce submission errors:
  * Used visual design theory to design the layout
  * Collaborated with project owner and managers to improve user guidance 
 
