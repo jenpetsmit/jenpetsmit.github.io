@@ -3,16 +3,19 @@
 
 ## Documentation Samples
 
+&nbsp;
+
+## NIH NCBI Genome Onboarding Submission Portal
+For the [Genome Onboarding Submission Portal page](https://submit.ncbi.nlm.nih.gov/about/genome/) I did the following in the _What You Should Expect_ section to reduce submission errors:
+ * Used visual design theory to design the layout
+ * Collaborated with project owner and managers to improve user guidance 
+
 
 &nbsp;
 
+### NIH NCBI Submission Portal Groups Feature
 
-### **NIH NCBI E-Utilities API documentation**
-
-The [original documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) was written several years. My task is to re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
-
-  - [My Updated E-Utilities API Documentation (In Progress)](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) 
-  - First attempt to write [my first API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md)
+Submitting data to the NCBI Submisson Portal can be done by an individual or a group. A collaborative group of stakeholders worked together together to write the pages of the [Groups Feature](https://submit.ncbi.nlm.nih.gov/help/submission-groups/) published March 2025. I also wrote the Jira tickets and reviewed the developer work for this work.
 
 &nbsp;
 
@@ -23,7 +26,6 @@ My task was to edit a few of the [original pages](https://github.com/ncbi/sra-to
  - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki) 
 
 &nbsp;
-
 
 ### **NIH NCBI STAT Tool**
 
@@ -36,10 +38,16 @@ My task was to edit a few of the [original pages](https://github.com/ncbi/sra-to
 
 
 ### Other work
-* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmitenpetsmit.github.io/main/blob/main/webcrawler.md) 
-* [My first QA Script](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
-* [testing QA](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
-* [testing Web crawler](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawler.md)
+* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmit/python/blob/main/webcrawler.md)
+* [QA Scripts](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
+
 
 &nbsp;
+
+### **NIH NCBI E-Utilities API documentation**
+
+The [original documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) was written several years. My task is to re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
+
+  - [My Updated E-Utilities API Documentation (In Progress)](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) 
+  - First attempt to write an [API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md)
 

@@ -1,10 +1,7 @@
----
-title: Web Crawler
 layout: page
-nav_order: 1
 description: "Web Crawler for YouTube Videos for the NCBI Sequence Read Archive."
-permalink: /
----
+permalink: /docs/webcrawler
+
 
 
 
@@ -13,6 +10,12 @@ permalink: /
 
 Using a book from my library called, "[Mining Social Media](https://socialdata.site/)," I learned how to create a .csv of YouTube videos.  Coincidently, on my work project they wanted to know how many videos our project has on YouTube. I adapted the code to produce the .csv.
 
-[nlm_sra.py](nlm_sra.py)
+[nlm_sra.py](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawlerpython.py)
 
-[youtube_videos_sra.csv](youtube_videos_sra.csv)
+[youtube_videos_sra.csv](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/webcrawler.csv)
+
+[test youtube](https://github.com/jenpetsmit/python/blob/main/youtube_videos_sra.csv)
+
+---
+
+[Return to Portfolio Home Page](https://jenpetsmit.github.io/)
