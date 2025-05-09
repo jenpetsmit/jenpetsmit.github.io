@@ -1,0 +1,7 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Projects2:
+    - 'Projects2/'
+theme: readthedocs
