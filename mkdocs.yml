@@ -1,12 +1,14 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  - Projects: projects.md
+  #- Projects: projects.md
   - docs:
     #- 'Projects2/'
     - index.md
     - QA.md
     - webcrawler.md
-    - yml.md
+    - yaml.md
 
 theme: readthedocs
+  features:
+  - navigation.tab
