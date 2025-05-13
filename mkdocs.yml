@@ -4,7 +4,7 @@ nav:
   #- Projects: projects.md
   - docs:
     #- 'Projects2/'
-    - index.md
+    #- index.md
     - QA.md
     - webcrawler.md
     - yaml.md
