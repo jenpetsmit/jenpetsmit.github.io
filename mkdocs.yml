@@ -10,5 +10,4 @@ nav:
     - yaml.md
 
 theme: readthedocs
-  features:
-  - navigation.tab
+ 
