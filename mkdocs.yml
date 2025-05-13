@@ -3,7 +3,8 @@ nav:
   - Home: index.md
   - Projects: projects.md
   - docs:
-    - 'Projects2/'
+    #- 'Projects2/'
+    - index.md
     - QA.md
     - webcrawler.md
     - yml.md
