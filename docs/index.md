@@ -8,3 +8,4 @@ I am a Senior Technical Writer with 10 years of experience and a Master’s degr
 I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and effectively enables clients to use the technology.  
 
 [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
+[Email](mailto:jenniferpetroffsmith@gmail.com)
