@@ -33,4 +33,3 @@ with open("youtube_videos_sra.csv", "w", encoding="utf-8") as csv_file:
 
 ---
 
-[Return to Portfolio Home Page](https://jenpetsmit.github.io/)
