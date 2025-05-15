@@ -1,4 +1,4 @@
-# Quality Assurance Test Scripts
+# Dynamics Quality Assurance Test Scripts
 
 [Script 1](QA.md#script-1)
 
