@@ -1,4 +1,4 @@
-```
+
 # Import all needed libraries 
 # Open the URL and read the API reponse
 # Identify each data point in your JSON and print it to spreadsheet
@@ -29,8 +29,5 @@ with open("youtube_videos_sra.csv", "w", encoding="utf-8") as csv_file:
         else:
             print("no more videos") 
             has_another_page = False
-```
 
----
 
-[Return to Portfolio Home Page](https://jenpetsmit.github.io/)
