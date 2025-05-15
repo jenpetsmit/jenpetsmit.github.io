@@ -1,11 +1,10 @@
 site_name: My Docs
 nav:
   - Home: index.md
-  #- Projects: projects.md
+ 
   - docs:
     - doc-samples.md
-    #- 'Projects2/'
-    #- index.md
+    
     - QA.md
     - webcrawler.md
     - yaml.md
