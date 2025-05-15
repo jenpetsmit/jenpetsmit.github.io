@@ -1,12 +1,13 @@
 site_name: Jennifer Smith's Portfolio
 nav:
   - Home: index.md
-  
+
   - docs:
     - documentation-samples.md
     - QA.md
     - webcrawler.md
     - yaml.md
-
+  - Personal efforts
+    - personal-efforts.md
 theme: readthedocs
  

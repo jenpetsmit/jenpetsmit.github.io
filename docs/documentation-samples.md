@@ -1,6 +1,4 @@
-## Documentation Samples
-
-&nbsp;
+# Documentation Samples
 
 ## NIH NCBI Genome Onboarding Submission Portal
 For the [Genome Onboarding Submission Portal page](https://submit.ncbi.nlm.nih.gov/about/genome/) I did the following in the _What You Should Expect_ section, to reduce submission errors, published August 2024:
@@ -31,14 +29,6 @@ My task was to edit a few of the [original pages](https://github.com/ncbi/sra-to
  
   * [My Detailed Version of How to Download and Use the STAT Tool](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md) 
  
-
-&nbsp;
-
-
-### Other work
-* [Web Crawler for YouTube Videos for the NCBI Sequence Read Archive](https://github.com/jenpetsmit/python/blob/main/webcrawler.md)
-* [QA Scripts](https://github.com/jenpetsmit/jenpetsmit.github.io/blob/main/docs/QA.md)
-
 
 &nbsp;
 
