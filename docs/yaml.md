@@ -1,5 +1,8 @@
 # eutils.yml
 **A Work in Progress**
+
+I have been learning about documenting APIs. 
+
 ```
 ---
 openapi: 3.0.0
