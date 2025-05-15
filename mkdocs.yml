@@ -5,9 +5,9 @@ nav:
   - docs:
     - documentation-samples.md
     - QA.md
+ 
+  - Personal efforts: 
     - webcrawler.md
     - yaml.md
-  - Personal efforts
-    - personal-efforts.md
+
 theme: readthedocs
- 
