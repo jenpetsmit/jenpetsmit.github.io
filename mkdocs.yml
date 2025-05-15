@@ -3,8 +3,8 @@ nav:
   - Home: index.md
 
   - docs:
-    - documentation-samples.md
-    - QA.md
+    - professional-documentation-samples.md
+    - Dynamics-QA.md
  
   - Personal efforts: 
     - webcrawler.md
