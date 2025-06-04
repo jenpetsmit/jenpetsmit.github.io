@@ -9,9 +9,11 @@ I am motivated to help end users achieve their goals by creating content that is
 
 Before technical writing, I created internal and external organizational communications and graphic design (7 years) and marketing materials (6 years) and taught high school and college (2 years).
 
+## Missing Navigation
+
 There is supposed to be a menu to the left, however I am teaching myself how to publish a static site and something is amok. 
 
-Stay Tuned!
+*Stay Tuned!*
 
 [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
 

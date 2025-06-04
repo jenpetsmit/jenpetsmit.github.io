@@ -6,10 +6,9 @@ nav:
     - documentation-samples.md
     - QA.md
 
- 
   - Personal efforts: 
     - webcrawler.md
     - yaml.md
-    - yaml.md
+
 
 theme: readthedocs
