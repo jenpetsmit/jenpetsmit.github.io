@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Dynamics Quality Assurance Test Scripts - Jennifer Smith's Portfolio</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Dynamics Quality Assurance Test Scripts";
+        var mkdocs_page_input_path = "QA.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Jennifer Smith's Portfolio
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">docs</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../documentation-samples/">Documentation Samples</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Dynamics Quality Assurance Test Scripts</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#script-1">Script 1</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#goal-1-for-team-lead">Goal 1 For Team Lead</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#goal-2-for-csr">Goal 2 For CSR</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#script-2">Script 2</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#goal-mark-duplicate-cases-as-duplicate">Goal - Mark duplicate cases as duplicate</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../webcrawler/">Web Crawler for YouTube Videos</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Personal efforts</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../webcrawler/">Web Crawler for YouTube Videos</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../yaml/">eutils.yml</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Jennifer Smith's Portfolio</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">docs</li>
+      <li class="breadcrumb-item active">Dynamics Quality Assurance Test Scripts</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="dynamics-quality-assurance-test-scripts">Dynamics Quality Assurance Test Scripts</h1>
+<p><a href="./#script-1">Script 1</a></p>
+<p><a href="./#script-2">Scipt 2</a></p>
+<p>Here is my first QA test script I wrote. </p>
+<h2 id="script-1">Script 1</h2>
+<h3 id="goal-1-for-team-lead">Goal 1 For Team Lead</h3>
+<p><strong>Set Up</strong></p>
+<p>A team lead with the following:
+ * Append permissions</p>
+<ol>
+<li>From a Team page from the Email notifications tab, enable the "Stale On Hold Case Notifications" setting</li>
+</ol>
+<h3 id="goal-2-for-csr">Goal 2 For CSR</h3>
+<p><strong>Set Up</strong></p>
+<p>A CSR on the Testing Team where the following is true:</p>
+<ul>
+<li>The "Stale On Hold Case Notifications" have been enabled (see above)</li>
+<li>
+<p>There is at least one case with a status of <em>On Hold</em></p>
+</li>
+<li>
+<p>Notify the Developer that you wish to begin testing this ticket.</p>
+</li>
+<li>In the Sandbox environment, the automation will be run in a demo state that should send emails out for any <em>On Hold</em> cases not modified in 1 minute.</li>
+<li>In Production, this query will be every 30 days.</li>
+<li>Create a case and change the status of the case to <em>On Hold</em></li>
+</ul>
+<p><strong>Result</strong></p>
+<p>You should receive an email within a few minutes that states, "You have Cases that have been On Hold for 30 days or more."</p>
+<p>&nbsp;</p>
+<h2 id="script-2">Script 2</h2>
+<h3 id="goal-mark-duplicate-cases-as-duplicate">Goal - Mark duplicate cases as duplicate</h3>
+<ol>
+<li>From <em>My Active Cases</em> screen, click the <strong>New Case</strong> button.</li>
+<li>Create a case, save, and submit</li>
+<li>From the <em>Update Status</em> menu, select <strong>Mark Duplicate</strong>
+<img alt="Mark Duplicate" src="https://github.com/user-attachments/assets/0fd30524-e915-4810-afc5-e09cbcf98cff" /></li>
+</ol>
+<p>The <em>New Case Update</em> side panel opens.</p>
+<ol>
+<li>From the <em>New Case Update</em> side panel, click the field. A list of cases diplay.</li>
+<li>
+<p>If you try to mark the current case as its own duplicate, you will receive an error.
+ <img alt="Error Message" src="https://github.com/user-attachments/assets/37ca88f5-fbfc-4700-986a-0e04d9c25ecb" /></p>
+</li>
+<li>
+<p>Select a different case and click the <strong>Save</strong> button</p>
+</li>
+</ol>
+<p><strong>Result</strong></p>
+<p>The case becomes <em>Read-only: Resolved</em> and status <em>Duplicate</em>
+<img alt="Case Read-only: Resolved" src="https://github.com/user-attachments/assets/5edbde52-7db1-42cc-841d-8d7b29d77fca" /></p>
+<hr />
+<p><a href="https://jenpetsmit.github.io/">Return to main page</a></p>
+<p>&nbsp;</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../documentation-samples/" class="btn btn-neutral float-left" title="Documentation Samples"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../webcrawler/" class="btn btn-neutral float-right" title="Web Crawler for YouTube Videos">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../documentation-samples/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../webcrawler/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
