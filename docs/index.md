@@ -11,4 +11,5 @@ Before technical writing, I created internal and external organizational communi
 
 [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
 
+
 [Email](mailto:jenniferpetroffsmith@gmail.com)
