@@ -5,6 +5,7 @@ nav:
   - docs:
     - documentation-samples.md
     - QA.md
+    - webcrawler.md
  
   - Personal efforts: 
     - webcrawler.md
