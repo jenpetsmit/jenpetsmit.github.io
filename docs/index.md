@@ -16,4 +16,4 @@ Stay Tuned!
 [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
 
 
-[Email](mailto:jenniferpetroffsmith@gmail.com)
+[jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)
