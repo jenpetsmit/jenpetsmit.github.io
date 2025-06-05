@@ -2,11 +2,11 @@ site_name: Jennifer Smith's Portfolio
 nav:
   - Home: index.md
 
-  - docs:
+  - NIH NCBI Writing Samples:
     - documentation-samples.md
     - QA.md
 
-  - Personal efforts: 
+  - Personal Efforts: 
     - webcrawler.md
     - yaml.md
 

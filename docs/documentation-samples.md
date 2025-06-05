@@ -1,41 +1,55 @@
-# Documentation Samples
+# NIH National Center for Biotechnology Information Documentation
 
-## NIH NCBI Genome Onboarding Submission Portal
-For the [Genome Onboarding Submission Portal page](https://submit.ncbi.nlm.nih.gov/about/genome/) I did the following in the _What You Should Expect_ section, to reduce submission errors, published August 2024:
+ [NCBI's mission](https://www.ncbi.nlm.nih.gov/home/about/mission/) is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
+
+---
+## NCBI Submission Portal _Shared Submission Groups_ Feature
+
+_~ Published March 2025_ 
+
+On the [_Shared Submission Groups_](https://submit.ncbi.nlm.nih.gov/help/submission-groups/) page:
+
+- Wrote the _Shared Submission Groups_ page text through collaborating with SME's
+- Wrote the Jira stories and tasks and reviewed the developer's work for accuracy 
+
+## NCBI Genome Onboarding Submission Portal
+
+_~ Published August 2024_
+
+ On the [_Genome_ Onboarding Submission Portal](https://submit.ncbi.nlm.nih.gov/about/genome/) page in the _What You Should Expect_ section, to reduce submission errors: 
 
  - Used visual design theory to design the layout
- - Collaborated with project owner and managers to improve user guidance 
-
-
-&nbsp;
-
-### NIH NCBI Submission Portal _Shared Submission Groups_ Feature
-
-Submitting data to the NCBI Submisson Portal can be done by an individual or a group. A collaborative group of stakeholders worked together together to write the pages of the [Groups Feature](https://submit.ncbi.nlm.nih.gov/help/submission-groups/) published in March 2025. I also wrote the Jira tickets and reviewed the developer work for this work.
-
-&nbsp;
-
-### **NIH NCBI SRA Toolkit Wiki**
-
-My task was to edit a few of the [original pages](https://github.com/ncbi/sra-tools/wiki) to serve an audience that includes non-developers. The developer team decided the work was too detailed for the GitHub. The work is currently scheduled to be added to the SRA website.
-
- - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki) 
-
-&nbsp;
-
-### **NIH NCBI STAT Tool**
-
- My task was to create instructions for non-developers to download and use a new version the STAT Tool, a tool scientist would use to determine the taxomonmy of a biological sample. The [current information](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax) does not include how to download the taxonomy database. The developer team discovered some weaknesses based on my attempts to set up the tool. They decided to reorganize the toolkit. Since the project manager is no longer with the organization, the future of this work is on hold.
- 
-  * [My Detailed Version of How to Download and Use the STAT Tool](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md) 
+ - Edited the text through collaborating with SME's to improve user guidance
  
 
-&nbsp;
+## **NCBI SRA Toolkit Wiki**
 
-### **NIH NCBI E-Utilities API documentation**
+_~ Publishing to the SRA website scheduled for 2025_
 
-The [original documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) was written several years. My task is to re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
+For the _SRA Tools GitHub Wiki_,  
+- Wrote guidance for a non-technicap audience on how to use command line tools to work with the SRA database.  
 
-  - [My Updated E-Utilities API Documentation (In Progress)](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) 
-  - First attempt to write an [API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md)
+ - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki){:target="_blank"} 
+ - [Current SRA Toolkit Wiki](https://github.com/ncbi/sra-tools/wiki){:target="_blank"}
+
+## **NCBI STAT Tool**
+
+_~ Publishing on hold_
+
+ For the NCBI STAT Tool, wrote guidance for a non-technicap audience to use a new version the STAT Tool, a tool scientist would use to determine the taxomonmy of a biological sample. 
+ 
+ The [current information](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax) does not include how to download the taxonomy database. The developer team discovered some weaknesses based on my attempts to set up the tool. They decided to reorganize the toolkit. Since the project manager is no longer with the organization, the future of this work is on hold.
+ 
+  * [My Edited _How to Download and Use the STAT Tool_](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md) 
+  * [ Current STAT Tool documentation](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax)
+ 
+## **NIH NCBI E-Utilities API documentation**
+
+_~ In progess_
+
+For the NCBI _E-Utilties API_ documentation, I re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
+
+  - [My Editied E-Utilities API Documentation](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) 
+    - [API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md)
+  - [Current E-Utilities documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) 
 
