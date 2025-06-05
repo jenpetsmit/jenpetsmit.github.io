@@ -11,9 +11,9 @@ Before technical writing, I created internal and external organizational communi
 
 [Writing Samples](documentation-samples.md)
 
-## Missing Navigation
+## MkDocs Static Site
 
-There is supposed to be a menu to the left, however I am teaching myself how to publish a static site and something is amok. 
+I have been learning how to make a static site using MkDocs. Looks like its working!
 
 *Stay Tuned!*
 
