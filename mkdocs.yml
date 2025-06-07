@@ -5,12 +5,12 @@ nav:
   - NIH NCBI Writing Samples:
     - documentation-samples.md
     - QA.md
-    - QA.md
     
+  - Organizational Communications:
+    - visuals.md
 
-  - Personal Efforts: 
+  - Learning New Tech: 
     - webcrawler.md
     - yaml.md
-
 
 theme: readthedocs

@@ -6,7 +6,7 @@
 I am a Senior Technical Writer with 10 years of experience with a Master’s degree in Professional Communications. 
 
 * See my [technical writing samples](documentation-samples.md)
-* See my [communications samples](comms.md)
+* See my [communications samples](visuals.md)
 
 I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and effectively enables clients to use the technology.  
 
