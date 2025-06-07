@@ -2,19 +2,23 @@
 
 Before technical writing I created websites, wrote newsletters, edited magazines. Here are some samples:
 
-## Print Work
 
-### Proposal to Promote a CRM Softare for Theater Companies (Dev Version)
 
-![More Standing Ovations](images/Alliance-Proposal-New-Front.png)
+### Proposal to Promote a CRM Softare for Theater Companies 
 
 * Goal: Increase sales of CRM software by showing the advantages of using a virutal service.
 
+![More Standing Ovations](images/Alliance-Proposal-New-Front.png)
+
+
+
 ### Proposal to Promote a Real Estate Company that Specializes in Short Sales
+
+* Goal: Assure potential customers of more relaxed experience when dealing with real estate short sales.
 
 ![Green Apple Real Estate Group Home](images/greenappleproposal.png)
 
-* Goal: Assure potential customers of more relaxed experience when dealing with real estate short sales.
+
 
 ### Journal of the Louisiana State Medical Society
 
@@ -23,7 +27,7 @@ Before technical writing I created websites, wrote newsletters, edited magazines
 
 
 ![CME at Your Fingertips](images/journal_cme001.jpg){.shrink}
-![Spontaneous Regression of Cervical Disc Hernication](images/journal_back001.jpg)
+![Spontaneous Regression of Cervical Disc Hernication](images/journal_back001.jpg){.shrink}
 ![Lessons Learned from Dirty Diapers](images/journal_baby001.jpg)
 ![Malicious Prosecution](images/journal_prosecution001.jpg)
 ![LSMS Celebrates 125 Years](images/journal_125001.jpg)
@@ -36,11 +40,15 @@ Before technical writing I created websites, wrote newsletters, edited magazines
 
 ### Theater Banner
 
+* Goal: Entice the General Public to Come to the Play
+* BTW, the play won a Best of Charleston Award that year
+
 ![Banner for Horse Tranqs & Carriage People](images/banner-copy.jpg)
 
-* Goal: Entice the General Public to Come to the Play
-* The play won a Best of Charleston Award that year
+
 
 ### Actor's Website
+
+[R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html)
 
 [![Actor's Website](images/rwsmith_home.jpg)R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html)
