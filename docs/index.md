@@ -1,21 +1,25 @@
 
 # Welcome to Jen Smith's Portfolio Site
 
-## About Me 
+### About Me
  
-I am a Senior Technical Writer with 10 years of experience and a Master’s degree in Professional Communications. 
+I am a Senior Technical Writer with 10 years of experience with a Master’s degree in Professional Communications. 
+
+* See my [technical writing samples](documentation-samples.md)
+* See my [communications samples](comms.md)
 
 I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and effectively enables clients to use the technology.  
 
-Before technical writing, I created internal and external organizational communications and graphic design (7 years) and marketing materials (6 years) and taught high school and college (2 years).
+My strengths are:
 
-[Writing Samples](documentation-samples.md)
+* Learning technology and writing instructional guidance (tech writing)
+* Designing page layouts that guide the user through complex processes (UX)
+* Creating or selecting visuals that effectively affect the audience using ethos, pathos, and logos (rhetorical comms)
 
-## MkDocs Static Site
+**This is a MkDocs Static Site**
 
-I have been learning how to make a static site using MkDocs. Looks like its working!
+I taught myself how to make this [GitHub](https://github.com/jenpetsmit) static site using [MkDocs](https://www.mkdocs.org/). 
 
-*Stay Tuned!*
 
 [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
 
