@@ -21,13 +21,13 @@ Before technical writing I created websites, wrote newsletters, edited magazines
 - Designed the covers and page layouts
 - Edited the text
 
-![CME at Your Fingertips](images/journal-covers/large/journal_cme001.jpg)
-![Spontaneous Regression of Cervical Disc Hernication](images/journal-covers/large/journal_back001.jpg)
-![Lessons Learned from Dirty Diapers](images/journal-covers/large/journal_baby001.jpg)
-![Malicious Prosecution](images/journal-covers/large/journal_prosecution001.jpg)
-![LSMS Celebrates 125 Years](images/journal-covers/large/journal_125001.jpg)
-![Physician Assisted Suicide](images/journal-covers/large/journal_physician001.jpg)
-![Healthcare in the Future Era of Dynamic Change](images/journal-covers/large/journalwomandoc001.jpg)
+![CME at Your Fingertips](images/journal_cme001.jpg)
+![Spontaneous Regression of Cervical Disc Hernication](images/journal_back001.jpg)
+![Lessons Learned from Dirty Diapers](images/journal_baby001.jpg)
+![Malicious Prosecution](images/journal_prosecution001.jpg)
+![LSMS Celebrates 125 Years](images/journal_125001.jpg)
+![Physician Assisted Suicide](images/journal_physician001.jpg)
+![Healthcare in the Future Era of Dynamic Change](images/journalwomandoc001.jpg)
 
 ### Chronicle - Literary Journal of Clemson
 
