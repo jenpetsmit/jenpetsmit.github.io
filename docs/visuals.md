@@ -21,8 +21,8 @@ Before technical writing I created websites, wrote newsletters, edited magazines
 - Designed the covers and page layouts
 - Edited the text
 
-<img src="images/journal_cme001.jpg"   height="300" alt="Journal Cover CME at Your Fingertips">
-![CME at Your Fingertips](images/journal_cme001.jpg)
+
+![CME at Your Fingertips](images/journal_cme001.jpg){.shrink}
 ![Spontaneous Regression of Cervical Disc Hernication](images/journal_back001.jpg)
 ![Lessons Learned from Dirty Diapers](images/journal_baby001.jpg)
 ![Malicious Prosecution](images/journal_prosecution001.jpg)

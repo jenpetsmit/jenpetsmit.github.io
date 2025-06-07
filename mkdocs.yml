@@ -14,3 +14,6 @@ nav:
     - yaml.md
 
 theme: readthedocs
+
+extra_css:
+  - extra.css   
