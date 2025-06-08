@@ -8,12 +8,15 @@ nav:
     
   - Organizational Communications:
     - visuals.md
+    - avisuals.md
 
   - Learning New Tech: 
     - webcrawler.md
     - yaml.md
+  
+  - About Me: 
+    - aboutme.md
 
 theme: readthedocs
 
-extra_css:
-  - css/extra.css   
+   
