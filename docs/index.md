@@ -1,27 +1,118 @@
 
 # Welcome to Jen Smith's Portfolio Site
 
-### About Me
+Welcome!
+
+I have been a technical writer since 2015 with an affinity for databases. With skills I learned from my Master of Arts degree in Professional Communications, I have designed websites, written blogs, and designed promotional materials.
+
+Professionally I rely on the following: 
+
+*  Ethos, Pathos, and Logos
+*  Good visual design
+*  Readable writing with readabilty in support of a defined goal
+
  
-I am a Senior Technical Writer with 10 years of experience with a Master’s degree in Professional Communications. 
 
-* See my [technical writing samples](documentation-samples.md)
-* See my [communications samples](visuals.md)
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+  <h3>Hard Skills</h3>
+      <p>Technical writing<br>
+research<br>
+CLI<br>
+SharePoint<br>
+Confluence<br>
+Jira<br>
+Relational Databases<br>
 
-I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and effectively enables clients to use the technology.  
+    <p></p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+    <p>SQL<br>
+Linux<br>
+Parts of GCP and AWS<br>
+Agile and Scrum<br>
+Designing Web Sites<br>
+GitHub<br>
+Markdown
+</p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>MkDocs<br>YAML<br>
+Draw.io<br>
+Photoshop<br>
+VSCode<br>
+Strategic Marketing<br>
+Internal Communications</p>
+  </div>
+</div>
 
-My strengths are:
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+  <h3>Soft Skills</h3>
+      
+    <p>Collaborating<br>
+Planning<br>
+Brain storming<br>
+Looking for patterns<br>
+Good with ambiguity<br>
 
-* Learning technology and writing instructional guidance (tech writing)
-* Designing page layouts that guide the user through complex processes (UX)
-* Creating or selecting visuals that effectively affect the audience using ethos, pathos, and logos (rhetorical comms)
+</p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>Learning<br>
+Self-starter<br>Team player<br>
+Coaching<br>
+Evaluating<br>
+</p>
+  </div>
+   <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>Identifying problems <br>Developing solutions<br>
+Organizing<br>
+Sense of Humor
+</p>
+  </div>
+</div>
 
-**This is a MkDocs Static Site**
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+  <h3>Knowledge Areas</h3>
+      
+    <p>Python<br>
+Apache NiFi<br>
+ETL<br>
+Big Data Systems<br>
+Kafka
 
-I taught myself how to make this [GitHub](https://github.com/jenpetsmit) static site using [MkDocs](https://www.mkdocs.org/). 
+</p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>JSON<br>
+Avro<br>
+JavaScript<br>
+Custom Software Development<br>
+SDLC<br>
+</p>
+  </div>
+   <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>Saas<br>
+Vertical And Unstructured Databases<br>
+CRMs<br>
+OpenAPI</p>
+  </div>
+</div>
 
 
-[Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
+**MkDocs Website**
 
+This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
 
-[jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)
+**Connect**
+
+* [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
+* [jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)

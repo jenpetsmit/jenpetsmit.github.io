@@ -1,6 +1,7 @@
-# NIH National Center for Biotechnology Information Documentation
+# NIH Samples
 
- [NCBI's mission](https://www.ncbi.nlm.nih.gov/home/about/mission/) is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
+## NIH National Center for Biotechnology Information 
+ NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
 
 ---
 ## NCBI Submission Portal _Shared Submission Groups_ Feature
