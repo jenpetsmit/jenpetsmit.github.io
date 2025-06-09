@@ -12,7 +12,6 @@ Professionally I rely on the following:
 *  Readable writing with readabilty in support of a defined goal
 
  
-
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1;">
   <h3>Hard Skills</h3>
@@ -112,7 +111,7 @@ OpenAPI</p>
 
 This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
 
-**Connect**
+**Let's Connect!**
 
 * [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
 * [jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)
