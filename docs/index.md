@@ -9,7 +9,7 @@ Professionally I rely on the following:
 
 *  Ethos, Pathos, and Logos
 *  Good visual design
-*  Readable writing with readabilty in support of a defined goal
+*  Readable writing in support of a defined goal
 
  
 <div style="display: flex; gap: 10px;">
@@ -31,7 +31,7 @@ Relational Databases<br>
 Linux<br>
 Parts of GCP and AWS<br>
 Agile and Scrum<br>
-Designing Web Sites<br>
+Designing Websites<br>
 GitHub<br>
 Markdown
 </p>
@@ -99,13 +99,16 @@ SDLC<br>
   </div>
    <div style="flex: 1;">
   <h3> &nbsp;</h3>
- <p>Saas<br>
+ <p>SaaS<br>
 Vertical And Unstructured Databases<br>
 CRMs<br>
 OpenAPI</p>
   </div>
 </div>
 
+See [About Me](aboutme.md) for my work experience.
+
+___
 
 **MkDocs Website**
 
