@@ -2,7 +2,7 @@
 
 [Script 1](QA.md#script-1)
 
-[Scipt 2](QA.md#script-2)
+[Script 2](QA.md#script-2)
 
 ##  Script 1
 
@@ -45,7 +45,7 @@ As a CSR on the Testing Team in the Sandbox environment
  
  The _New Case Update_ side panel opens.
  
- 4. From the _New Case Update_ side panel, click the field. A list of cases diplay.
+ 4. From the _New Case Update_ side panel, click the field. A list of cases display.
  5. If you try to mark the current case as its own duplicate, you will receive an error.
  ![Error Message](https://github.com/user-attachments/assets/37ca88f5-fbfc-4700-986a-0e04d9c25ecb)
 

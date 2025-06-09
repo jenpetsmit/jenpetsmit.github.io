@@ -108,13 +108,15 @@ OpenAPI</p>
 
 See [About Me](aboutme.md) for my work experience.
 
+**Let's Connect!**
+
+* [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
+* [jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)
+
+
 ___
 
 **MkDocs Website**
 
 This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
 
-**Let's Connect!**
-
-* [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
-* [jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)

@@ -6,7 +6,7 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
 
 ## Proposal to Promote a CRM SoftWare for Theater Companies 
 
-* Goal: Increase sales of CRM software by showing the advantages of using Alliance's services.
+* Goal: Increase sales of CRM software by showing the advantages of using [Alliance Software Corporation's](https://wit.edu/directory/aspen-olmsted) services.
 
 
 <div style="display: inline-block; gap: 10px;">
@@ -30,12 +30,12 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
  
   <div style="flex: 1;">
    
- <p><img src="../images/greenappleproposal.png" alt="Alliance software promotional piece" width="600"></p>
+ <p><img src="../images/greenappleproposal.png" alt="Green Apple Real Estate Proposal" width="600"></p>
 
   </div>
 </div>
 
-## Journal of the Louisiana State Medical Society
+## *Journal of the Louisiana State Medical Society*
 
 - Designed the covers and page layouts
 - Edited the text
@@ -44,12 +44,33 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
 
 
 *Spontaneous Regression of Cervical Disc Hernication*
+
 ![Spontaneous Regression of Cervical Disc Hernication](images/journalback.jpg) 
+
+---
+
+*Lessons Learned from Dirty Diapers*
+
 ![Lessons Learned from Dirty Diapers](images/journalbaby.jpg)
+
+---
+
+*Malicious Prosecution*
+
 ![Malicious Prosecution](images/journalprosecution.jpg)
+
+---
+
+*LSMS Celebrates 125 Years*
+
 ![LSMS Celebrates 125 Years](images/journal125.jpg)
+
+---
+
+*Physician Assisted Suicide*
+
 ![Physician Assisted Suicide](images/journalphysician.jpg)
-![Healthcare in the Future Era of Dynamic Change](images/journalwomandoc.jpg)
+
 
 
 ## Theater Banner

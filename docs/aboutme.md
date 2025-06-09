@@ -3,7 +3,7 @@
 I am a Senior Technical Writer with 10 years of experience with a Master’s degree in Professional Communications with a focus on rhetoric and visual communication. 
 
 * See my [technical writing samples](documentation-samples.md)
-* See my [communications samples](visuals.md)
+* See my [organizational communications samples](visuals.md)
 * See my [LinkedIn](https://www.linkedin.com/in/jennifer-petroff-smith/)
 
 I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and enables clients to effectively use the technology. 
@@ -26,8 +26,8 @@ I am motivated to help end users achieve their goals by creating content that is
 **Bachelor of Arts in Language and International Trade, Clemson University**
 
 ### Professional Certifications
-* AWS Cloud Practitioner		&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	6/2024
-* SAFe 4 Product Owner/Product Manager Certification &nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;			12/2019
+* AWS Cloud Practitioner (06/2024)
+* SAFe 4 Product Owner/Product Manager Certification (12/2019)
 
 ## Work Experience
 
@@ -35,7 +35,7 @@ I am motivated to help end users achieve their goals by creating content that is
 
 **Senior Technical Writer - National Institutes of Health National Center for Biotechnology Information**
 
-Improving user guidance for the Genome Onboarding Submission Portal and Shared Submission Groups feature by:
+Improving user guidance for the [Shared Submission Groups](documentation-samples.md/#ncbi-submission-portal-shared-submission-groups-feature) feature and [Genome Onboarding Submission Portal](documentation-samples.md/#ncbi-genome-onboarding-submission-portal) by:
 
 * Collaborating with the project owner and managers 
 * Simplifying instructions
@@ -59,19 +59,14 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
 * Creating a wireframe to represent development
 * Developing document templates for deliverables
 * Working with Data Scientists and Data Engineers and helping to design dashboards for performance monitoring and data governance pipelines to support the DaaS Initiative
-     -  Using Python and NiFi to import, clean and extract, transform, and load (ETL) data from navel databases
+     -  Using Python and NiFi to import, clean and extract, transform, and load (ETL) data from Naval databases
      -  Using Kafka to distribute data and Elasticsearch to import and prepare data for search, analysis, and visualization
-
-**Business Analyst/Scrum Master Efforts:** 
-
-*  Identifying and documenting project requirements
-* Working with our customer and Product Owner to clarify goals
-* Capturing, analyzing, and managing requirements using Jira and Confluence 
 
 **Project Management Efforts:** 
 
-* Writing weekly reports and creating presentations
-* Onboarding and training team members
+* Identifying, analyzing, and caputuring project requirements using Jira and Confluence
+* Working with our customer and Product Owner to clarify goals
+* Managing requirements using Jira and Confluence 
 
 **Customer Support Efforts:** 
 
@@ -99,7 +94,7 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
 * Teaching students and professors how to use software programs
 * Creating instructional videos to prepare students for online language testing
 * Managing the LCWA Technology Resource Center
-* Administering a SAAS program - managing professor and student accounts and assigning permissions
+* Administering a SaaS program - managing professor and student accounts and assigning permissions
 
 ---
 
@@ -108,6 +103,6 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
 **Project Manager**
 
 * Coordinating training and instructing clients via WebEx to use customer relationship management software
-* Writing the Help documentation to use the CRM software
-* Developing a proposal for the company’s website to explain the company’s mission
+* Writing the *Help* documentation to use the CRM software
+* Developing a [proposal](visuals.md/#proposal-to-promote-a-crm-software-for-theater-companies) for the company’s website to promote the company's product by showing its advantages
 

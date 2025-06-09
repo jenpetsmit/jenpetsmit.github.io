@@ -1,4 +1,4 @@
-# Writing Samples
+# Documentation Samples
 
 ## NIH National Center for Biotechnology Information 
  NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
@@ -13,11 +13,11 @@ On the [_Shared Submission Groups_](https://submit.ncbi.nlm.nih.gov/help/submiss
 - Wrote the _Shared Submission Groups_ page text through collaborating with SME's
 - Wrote the Jira stories and tasks and reviewed the developer's work for accuracy 
 
-## NCBI Genome Onboarding Submission Portal
+## NCBI _Genome Onboarding Submission Portal_
 
 _~ Published August 2024_
 
- On the [_Genome_ Onboarding Submission Portal](https://submit.ncbi.nlm.nih.gov/about/genome/) page in the _What You Should Expect_ section, to reduce submission errors: 
+ On the [_Genome Onboarding Submission Portal_](https://submit.ncbi.nlm.nih.gov/about/genome/) page in the _What You Should Expect_ section, to reduce submission errors: 
 
  - Used visual design theory to design the layout
  - Edited the text through collaborating with SME's to improve user guidance
