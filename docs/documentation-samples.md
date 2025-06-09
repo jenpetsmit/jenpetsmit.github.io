@@ -51,6 +51,6 @@ _~ In progess_
 For the NCBI _E-Utilties API_ documentation, I re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
 
   - [My Editied E-Utilities API Documentation](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) ![offsite](images/offsite.jpg)
-    - [API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md)
+    - [API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md) ![offsite](images/offsite.jpg)
   - Current [E-Utilities documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) ![offsite](images/offsite.jpg) for comparison
 
