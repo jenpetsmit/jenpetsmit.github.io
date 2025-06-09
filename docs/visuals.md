@@ -6,7 +6,7 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
 
 ## Proposal to Promote a CRM SoftWare for Theater Companies 
 
-* Goal: Increase sales of CRM software by showing the advantages of using [Alliance Software Corporation's](https://wit.edu/directory/aspen-olmsted) services.
+* Goal: Increase sales of CRM software by showing the advantages of using [Alliance Software Corporation's](https://wit.edu/directory/aspen-olmsted) ![offsite](images/offsite.jpg) services.
 
 
 <div style="display: inline-block; gap: 10px;">
@@ -85,6 +85,6 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
 
 ## Actor's Website (2010)
 
-[R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html)
+[R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html) ![offsite](images/offsite.jpg)
 
-![Actor's Website](images/rwsmith_home.jpg)
+![Actor's Website](images/rwsmith_home.jpg) 

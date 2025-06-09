@@ -4,7 +4,7 @@ I am a Senior Technical Writer with 10 years of experience with a Master’s deg
 
 * See my [technical writing samples](documentation-samples.md)
 * See my [organizational communications samples](visuals.md)
-* See my [LinkedIn](https://www.linkedin.com/in/jennifer-petroff-smith/)
+* See my [LinkedIn](https://www.linkedin.com/in/jennifer-petroff-smith/) ![offsite](images/offsite.jpg)
 
 I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and enables clients to effectively use the technology. 
 
@@ -35,7 +35,7 @@ I am motivated to help end users achieve their goals by creating content that is
 
 **Senior Technical Writer - National Institutes of Health National Center for Biotechnology Information**
 
-Improving user guidance for the [Shared Submission Groups](documentation-samples.md/#ncbi-submission-portal-shared-submission-groups-feature) feature and [Genome Onboarding Submission Portal](documentation-samples.md/#ncbi-genome-onboarding-submission-portal) by:
+Improving user guidance for the [Shared Submission Groups](documentation-samples.md/#ncbi-submission-portal-shared-submission-groups-feature) ![offsite](images/offsite.jpg) feature and [Genome Onboarding Submission Portal](documentation-samples.md/#ncbi-genome-onboarding-submission-portal) ![offsite](images/offsite.jpg) by:
 
 * Collaborating with the project owner and managers 
 * Simplifying instructions
