@@ -1,4 +1,4 @@
-# NCBI Dynamics Quality Assurance Test Scripts
+# MS Dynamics Quality Assurance Test Scripts
 
 [Script 1](QA.md#script-1)
 
@@ -31,7 +31,8 @@ ___
 
 You should receive an email within a few minutes that states, "You have Cases that have been On Hold for 30 days or more."
 
-&nbsp;
+
+---
 
 ##  Script 2
 

@@ -2,7 +2,7 @@ site_name: Jennifer Smith's Portfolio
 nav:
   - Home: index.md
 
-  - NIH NCBI Writing Samples:
+  - NIH NCBI Samples:
     - documentation-samples.md
     - QA.md
     

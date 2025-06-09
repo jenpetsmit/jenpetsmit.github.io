@@ -1,4 +1,4 @@
-# About Me 
+# Resume
  
 I am a Senior Technical Writer with 10 years of experience with a Master’s degree in Professional Communications with a focus on rhetoric and visual communication. 
 
@@ -8,7 +8,7 @@ I am a Senior Technical Writer with 10 years of experience with a Master’s deg
 
 I am motivated to help end users achieve their goals by creating content that is human-centered, is visually appealing, and enables clients to effectively use the technology. 
 
-# Resume
+
 
 ## Education
  
@@ -46,12 +46,13 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
 * Writing the guidance for the STAT Analysis tool by creating a Linux machine, then installing and learning the tool
 * Writing guidance in GitHub on how to download, install, and use SRA Toolkit 
 
+---
 
 ##### 08/2020 - 07/2022	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;		Scientific Research Corporation, Charleston, SC (remote)
 
 **Senior Technical Writer III - US Marine Corps Data as a Service (DaaS) Initiative**
 
-**Technical Writing:** 
+**Technical Writing Efforts:** 
 
 * Working with developers to learn microservices and write standard operating procedures for the big data migration project
 * Drawing network, architecture, and data flow diagrams
@@ -61,20 +62,22 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
      -  Using Python and NiFi to import, clean and extract, transform, and load (ETL) data from navel databases
      -  Using Kafka to distribute data and Elasticsearch to import and prepare data for search, analysis, and visualization
 
-**Business Analyst/Scrum Master:** 
+**Business Analyst/Scrum Master Efforts:** 
 
 *  Identifying and documenting project requirements
 * Working with our customer and Product Owner to clarify goals
 * Capturing, analyzing, and managing requirements using Jira and Confluence 
 
-**Project Management:** 
+**Project Management Efforts:** 
 
 * Writing weekly reports and creating presentations
 * Onboarding and training team members
 
-**Customer Support:** 
+**Customer Support Efforts:** 
 
 *  Writing documentation for and assisting customers with accessing and using the system 
+
+---
 
 ##### 06/2015 - 08/2020		&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;	Booz Allen Hamilton, Charleston, SC
 
@@ -86,6 +89,7 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
 * Developing queries to collect data for a monthly security changes document
 * Improving data collection process by moving from biweekly to daily data collection
 
+---
 ##### 06/2010 - 08/2014	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;		College of Charleston, Charleston, SC
 
 **Technology Consultant - School of Languages, Cultures, and World Affairs (LCWA) Technology Resource Center**
@@ -96,6 +100,8 @@ Improving user guidance for the Genome Onboarding Submission Portal and Shared S
 * Creating instructional videos to prepare students for online language testing
 * Managing the LCWA Technology Resource Center
 * Administering a SAAS program - managing professor and student accounts and assigning permissions
+
+---
 
 ##### 07/2009 - 11/2009	&nbsp;&nbsp;	&nbsp;	&nbsp;	&nbsp;		Alliance Software Corporation, Charleston, SC
 

@@ -43,7 +43,7 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
 
 
 
-
+*Spontaneous Regression of Cervical Disc Hernication*
 ![Spontaneous Regression of Cervical Disc Hernication](images/journalback.jpg) 
 ![Lessons Learned from Dirty Diapers](images/journalbaby.jpg)
 ![Malicious Prosecution](images/journalprosecution.jpg)
@@ -55,13 +55,14 @@ Before technical writing, I created websites, wrote newsletters, and edited maga
 ## Theater Banner
 
 * Goal: Entice the General Public to Come to the Play
-* BTW, the play won a Best of Charleston Award that year
+* Goal: Provide an idea of the play's plot
+    * BTW, the play won a Best of Charleston Award that year!
 
 ![Banner for Horse Tranqs & Carriage People](images/banner-copy.jpg)
 
 
 
-## Actor's Website
+## Actor's Website (2010)
 
 [R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html)
 

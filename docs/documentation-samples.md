@@ -1,4 +1,4 @@
-# NIH Samples
+# Writing Samples
 
 ## NIH National Center for Biotechnology Information 
  NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
