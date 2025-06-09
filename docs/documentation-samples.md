@@ -30,8 +30,8 @@ _~ Publishing to the SRA website scheduled for 2025_
 For the _SRA Tools GitHub Wiki_,  
 - Wrote guidance for a non-technicap audience on how to use command line tools to work with the SRA database.  
 
- - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki){:target="_blank"} 
- - [Current SRA Toolkit Wiki](https://github.com/ncbi/sra-tools/wiki){:target="_blank"}
+ - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki) 
+ - [Current SRA Toolkit Wiki](https://github.com/ncbi/sra-tools/wiki) for comparison
 
 ## **NCBI STAT Tool**
 
@@ -50,7 +50,7 @@ _~ In progess_
 
 For the NCBI _E-Utilties API_ documentation, I re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
 
-  - [My Editied E-Utilities API Documentation](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) 
+  - [My Editied E-Utilities API Documentation](https://github.com/jenpetsmit/eutilities/blob/main/getting_started.md) ![offsite](visuals/offsite.jpg)
     - [API yaml](https://github.com/jenpetsmit/eutilities/blob/main/eutils/yml.md)
-  - [Current E-Utilities documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) 
+  - [Current E-Utilities documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) ![offsite](visuals/offsite.jpg) for comparison
 
