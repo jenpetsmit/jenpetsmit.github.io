@@ -16,7 +16,7 @@ Professionally I rely on the following:
   <div style="flex: 1;">
   <h3>Hard Skills</h3>
       <p>Technical writing<br>
-research<br>
+Research<br>
 CLI<br>
 SharePoint<br>
 Confluence<br>
@@ -53,7 +53,7 @@ Internal Communications</p>
       
     <p>Collaborating<br>
 Planning<br>
-Brain storming<br>
+Brainstorming<br>
 Looking for patterns<br>
 Good with ambiguity<br>
 
