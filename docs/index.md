@@ -3,7 +3,7 @@
 
 Welcome!
 
-I have been a technical writer since 2015 with an affinity for databases and experience documenting SaaS systems, writing user guides, and SOPs.
+I have been a technical writer since 2015. My career started with writing user instructions for the Veteran Benefits Management System (VBMS). Next I documented the architecture and SOPs for a big data project for the US Marine Corps. Currently I am supporting the National Center for Biotechnology Information (NCBI) databases under the National Institutes of Health.  
 
 With skills I learned from my Master of Arts degree in Professional Communications, I have designed websites, written blogs, and designed promotional materials.
 
