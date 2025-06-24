@@ -1,6 +1,6 @@
 # Resume
  
-I am a Senior Technical Writer with 10 years of experience with a Master’s degree in Professional Communications with a focus on rhetoric and visual communication. 
+I am a Senior Technical Writer with 10 years of experience writing clear, comprehensive, and accessible documentation. I have a Master’s degree in Professional Communications with a focus on rhetoric and visual communication. 
 
 * See my [technical writing samples](documentation-samples.md)
 * See my [organizational communications samples](visuals.md)

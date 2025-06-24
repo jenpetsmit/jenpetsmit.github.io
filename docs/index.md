@@ -3,7 +3,9 @@
 
 Welcome!
 
-I have been a technical writer since 2015 with an affinity for databases. With skills I learned from my Master of Arts degree in Professional Communications, I have designed websites, written blogs, and designed promotional materials.
+I have been a technical writer since 2015 with an affinity for databases and experience documenting SaaS systems, writing user guides, and SOPs.
+
+With skills I learned from my Master of Arts degree in Professional Communications, I have designed websites, written blogs, and designed promotional materials.
 
 Professionally I rely on the following: 
 
