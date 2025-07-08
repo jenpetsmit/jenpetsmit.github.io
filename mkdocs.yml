@@ -12,9 +12,9 @@ nav:
 
   - Learning New Tech: 
     - swagger.md
-    - Swagger UI: swagger/index.html
     - webcrawler.md
     - yaml.md
+    - Swagger UI: swagger/index.html
   
   - About Me: 
     - aboutme.md
