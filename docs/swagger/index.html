@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>API Docs - Swagger UI</title>
   <link rel="stylesheet" type="text/css" href="./swagger-ui.css" />
   <style>
@@ -16,9 +17,10 @@
   <script src="./swagger-ui-bundle.js" charset="UTF-8"></script>
   <script src="./swagger-ui-standalone-preset.js" charset="UTF-8"></script>
   <script>
-    window.onload = function() {
+  window.onload = function () {
+    if (typeof SwaggerUIBundle !== "undefined") {
       SwaggerUIBundle({
-        url: "./openapi.yaml",  // or "./openapi.json"
+        url: "./openapi.yaml",
         dom_id: "#swagger-ui",
         deepLinking: true,
         presets: [
@@ -27,7 +29,11 @@
         ],
         layout: "StandaloneLayout"
       });
-    };
-  </script>
+    } else {
+      document.getElementById('swagger-ui').innerHTML =
+        "<p style='color:red'>Swagger UI failed to load. Check JS/CSS paths or GitHub Pages settings.</p>";
+    }
+  };
+</script>
 </body>
 </html>
