@@ -1,24 +1,72 @@
-site_name: Jennifer Smith's Portfolio
-nav:
-  - Home: index.md
+openapi: 3.0.3
+info:
+  title: Library Books API
+  description: A simple API to manage books in a library.
+  version: 1.0.0
+servers:
+  - url: https://api.example.com/v1
+paths:
+  /books:
+    get:
+      summary: Get a list of all books
+      responses:
+        '200':
+          description: A list of books
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Book'
 
-  - NIH NCBI Samples:
-    - documentation-samples.md
-    - QA.md
-    
-  - Organizational Communications:
-    - visuals.md
+    post:
+      summary: Add a new book
+      requestBody:
+        description: Book to add
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Book'
+      responses:
+        '201':
+          description: Book added successfully
 
+  /books/{id}:
+    get:
+      summary: Get a book by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: ID of the book
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: A single book
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Book'
+        '404':
+          description: Book not found
 
-  - Learning New Tech: 
-    - swagger.md
-    - swagger/index.html
-    - webcrawler.md
-    - yaml.md
-  
-  - About Me: 
-    - aboutme.md
-
-theme: readthedocs
-
-   
+components:
+  schemas:
+    Book:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 1
+        title:
+          type: string
+          example: The Great Gatsby
+        author:
+          type: string
+          example: F. Scott Fitzgerald
+        publishedDate:
+          type: string
+          format: date
+          example: 1925-04-10
