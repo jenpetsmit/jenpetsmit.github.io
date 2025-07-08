@@ -1,0 +1,24 @@
+site_name: Jennifer Smith's Portfolio
+nav:
+  - Home: index.md
+
+  - NIH NCBI Samples:
+    - documentation-samples.md
+    - QA.md
+    
+  - Organizational Communications:
+    - visuals.md
+
+
+  - Learning New Tech: 
+    - swagger.md
+    - swagger/index.html
+    - webcrawler.md
+    - yaml.md
+  
+  - About Me: 
+    - aboutme.md
+
+theme: readthedocs
+
+   
