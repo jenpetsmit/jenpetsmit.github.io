@@ -1,114 +1,24 @@
 
-# Welcome to Jen Smith's Portfolio Site
+# Welcome to Jen Smith's Portfolio
 
-Welcome!
+Hello and thanks for visiting!
 
-I have been a technical writer since 2015. My career started with writing user instructions for the Veteran Benefits Management System (VBMS). Next I documented the architecture and SOPs for a big data project for the US Marine Corps. Currently I am supporting the National Center for Biotechnology Information (NCBI) databases under the National Institutes of Health.  
+I’ve worked as a technical writer since 2015, beginning with user instructions for the Veterans Benefits Management System (VBMS). From there, I documented system architecture and authored SOPs for a big data initiative for the U.S. Marine Corps. Currently, I support the National Center for Biotechnology Information (NCBI) at the National Institutes of Health (NIH), where I’m updating API documentation for the E-utilities. See my [MkDocs Site for NCBI API Documentation](https://eutilities.github.io/site/)
 
-With skills I learned from my Master of Arts degree in Professional Communications, I have designed websites, written blogs, and designed promotional materials.
+My foundation in communication comes from a Master of Arts in Professional Communications, where I learned to apply ethos (credibility), pathos (empathy), and logos (logic) across both technical and creative projects. Over the years, I’ve built websites, written blogs, and created marketing materials that are both user-focused and goal-driven.
 
-Professionally I rely on the following: 
+I rely on these core principles in all my professional writing:
+* Clean, user-friendly visual design
+* Clear and practical language to support content aligned with a specific user goal
 
-*  Ethos, Pathos, and Logos
-*  Good visual design
-*  Readable writing in support of a defined goal
+ * [Resume](resume.md)
+ * [Work Samples](documentation-samples.md)
+ * [Organizational Communications](visuals.md)
+ * Learning New Tech
+    * [YAML](yaml.md)
+    * [Web Crawler for YouTube Videos](webcrawler.md)
 
- 
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
-  <h3>Hard Skills</h3>
-      <p>Technical writing<br>
-Research<br>
-CLI<br>
-SharePoint<br>
-Confluence<br>
-Jira<br>
-Relational Databases<br>
-
-    <p></p>
-  </div>
-  <div style="flex: 1;">
-  <h3> &nbsp;</h3>
-    <p>SQL<br>
-Linux<br>
-Parts of GCP and AWS<br>
-Agile and Scrum<br>
-Designing Websites<br>
-GitHub<br>
-Markdown
-</p>
-  </div>
-  <div style="flex: 1;">
-  <h3> &nbsp;</h3>
- <p>MkDocs<br>YAML<br>
-Draw.io<br>
-Photoshop<br>
-VSCode<br>
-Strategic Marketing<br>
-Internal Communications</p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
-  <h3>Soft Skills</h3>
-      
-    <p>Collaborating<br>
-Planning<br>
-Brainstorming<br>
-Looking for patterns<br>
-Good with ambiguity<br>
-
-</p>
-  </div>
-  <div style="flex: 1;">
-  <h3> &nbsp;</h3>
- <p>Learning<br>
-Self-starter<br>Team player<br>
-Coaching<br>
-Evaluating<br>
-</p>
-  </div>
-   <div style="flex: 1;">
-  <h3> &nbsp;</h3>
- <p>Identifying problems <br>Developing solutions<br>
-Organizing<br>
-Sense of Humor
-</p>
-  </div>
-</div>
-
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
-  <h3>Knowledge Areas</h3>
-      
-    <p>Python<br>
-Apache NiFi<br>
-ETL<br>
-Big Data Systems<br>
-Kafka
-
-</p>
-  </div>
-  <div style="flex: 1;">
-  <h3> &nbsp;</h3>
- <p>JSON<br>
-Avro<br>
-JavaScript<br>
-Custom Software Development<br>
-SDLC<br>
-</p>
-  </div>
-   <div style="flex: 1;">
-  <h3> &nbsp;</h3>
- <p>SaaS<br>
-Vertical And Unstructured Databases<br>
-CRMs<br>
-OpenAPI</p>
-  </div>
-</div>
-
-See [About Me](aboutme.md) for my work experience.
+---
 
 **Let's Connect!**
 

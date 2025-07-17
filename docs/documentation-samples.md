@@ -3,6 +3,15 @@
 ## NIH National Center for Biotechnology Information 
  NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
 
+ ---
+
+## MkDocs Site for API Documentation 
+
+
+[EUtilities API Documentation](https://eutilities.github.io/site/) ![Offsite](/images/offsite.jpg) - Work in Progress
+
+This is a MkDocs static site designed to support API documentation, including an interactive Swagger-UI for testing.
+
 ---
 ## NCBI Submission Portal _Shared Submission Groups_ Feature
 

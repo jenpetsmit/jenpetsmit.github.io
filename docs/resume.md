@@ -17,7 +17,7 @@ I am motivated to help end users achieve their goals by creating content that is
 * Designing the South Carolina Botanical Gardens website applying visual and rhetorical design theories
 * Teaching and writing the curriculum for 200-level desktop publishing course including visual design theory 
 
-**Course work in Internet Programming, Trident Technical College**
+**Course Work in Internet Programming, Trident Technical College**
 
 * Learned and practiced SQL and relational database theory 
 * Wrote JavaScript to design web pages
@@ -105,4 +105,100 @@ Improving user guidance for the [Shared Submission Groups](documentation-samples
 * Coordinating training and instructing clients via WebEx to use customer relationship management software
 * Writing the *Help* documentation to use the CRM software
 * Developing a [proposal](visuals.md/#proposal-to-promote-a-crm-software-for-theater-companies) for the company’s website to promote the company's product by showing its advantages
+
+## Skill Sets
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+  <h3>Hard Skills</h3>
+      <p>Technical writing<br>
+Research<br>
+CLI<br>
+SharePoint<br>
+Confluence<br>
+Jira<br>
+Relational Databases<br>
+
+    <p></p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+    <p>SQL<br>
+Linux<br>
+Parts of GCP and AWS<br>
+Agile and Scrum<br>
+Designing Websites<br>
+GitHub<br>
+Markdown
+</p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>MkDocs<br>YAML<br>
+Draw.io<br>
+Photoshop<br>
+VSCode<br>
+Strategic Marketing<br>
+Internal Communications</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+  <h3>Soft Skills</h3>
+      
+    <p>Collaborating<br>
+Planning<br>
+Brainstorming<br>
+Looking for patterns<br>
+Good with ambiguity<br>
+
+</p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>Learning<br>
+Self-starter<br>Team player<br>
+Coaching<br>
+Evaluating<br>
+</p>
+  </div>
+   <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>Identifying problems <br>Developing solutions<br>
+Organizing<br>
+Sense of Humor
+</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+  <h3>Knowledge Areas</h3>
+      
+    <p>Python<br>
+Apache NiFi<br>
+ETL<br>
+Big Data Systems<br>
+Kafka
+
+</p>
+  </div>
+  <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>JSON<br>
+Avro<br>
+JavaScript<br>
+Custom Software Development<br>
+SDLC<br>
+</p>
+  </div>
+   <div style="flex: 1;">
+  <h3> &nbsp;</h3>
+ <p>SaaS<br>
+Vertical And Unstructured Databases<br>
+CRMs<br>
+OpenAPI</p>
+  </div>
+</div>
 
