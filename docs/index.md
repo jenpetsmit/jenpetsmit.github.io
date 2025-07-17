@@ -12,6 +12,7 @@ I rely on these core principles in all my professional writing:
 * Clean, user-friendly visual design
 * Clear and practical language to support content aligned with a specific user goal
 
+## Site Links
 
  * [Work Samples](documentation-samples.md)
  * [Organizational Communications](visuals.md)
@@ -22,8 +23,9 @@ I rely on these core principles in all my professional writing:
 
 ### Let's Connect!
 
-* [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/)
-* [jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)
+ * [Linkedin](https://www.linkedin.com/in/jennifer-petroff-smith/) ![offsite.jpg](images/offsite.jpg)
+
+* [Email: jenniferpetroffsmith@gmail.com](mailto:jenniferpetroffsmith@gmail.com)
 
 ___
 
