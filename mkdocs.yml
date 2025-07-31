@@ -2,12 +2,14 @@ site_name: Jennifer Smith's Portfolio
 nav:
   - Home: index.md
 
-  - NIH NCBI Samples:
-    - NCBI: documentation-samples.md
-    - QA.md
-    
   - Marketing:
     - visuals.md
+
+  - NIH NCBI Samples:
+    - Tecnical Writing: documentation-samples.md
+    - QA.md
+    
+
 
 
   - Learning New Tech: 

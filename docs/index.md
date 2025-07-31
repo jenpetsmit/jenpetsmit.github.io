@@ -14,12 +14,12 @@ I rely on these core principles in all my professional writing:
 
 ## Site Links
 
- * [Work Samples](documentation-samples.md)
- * [Organizational Communications](visuals.md)
+ * [Marketing Samples](visuals.md)
+ * [Technical Writing Samples](documentation-samples.md)
  * Learning New Tech
     * [YAML](yaml.md)
     * [Web Crawler for YouTube Videos](webcrawler.md)
- * [Resume](resume.md)
+ 
 
 ### Let's Connect!
 
