@@ -1,11 +1,11 @@
 # eutils.yml
 **A Work in Progress**
 
-I have been learning about documenting APIs. I wrote this for work.  
-* See the [E-Utilies documentation](https://eutilities.github.io/site/_) in progress.
-* See this yaml in action - [E-Utilities Explorer](https://eutilities.github.io/site/swagger-ui/)
+I have been learning about documenting APIs. I wrote this yaml for NCBI EUtilities API documentation.  
 
-```
+* See the [EUtilies documentation](https://eutilities.github.io/site/_) in progress.
+* See this yaml in action - [EUtilities Explorer](https://eutilities.github.io/site/swagger-ui/)
+
 ---
 
 openapi: "3.0.3"

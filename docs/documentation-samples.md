@@ -1,6 +1,6 @@
-# Documentation Samples
+# NIH NCBI Documentation Samples
 
-## NIH National Center for Biotechnology Information 
+## NIH National Center for Biotechnology Information (NCBI)
  NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
 
  ---
@@ -13,7 +13,7 @@
 This is a MkDocs static site designed to support API documentation, including an interactive Swagger-UI for testing.
 
 ---
-## NCBI Submission Portal _Shared Submission Groups_ Feature
+## Submission Portal _Shared Submission Groups_ Feature
 
 _~ Published March 2025_ 
 
@@ -22,7 +22,7 @@ On the [_Shared Submission Groups_](https://submit.ncbi.nlm.nih.gov/help/submiss
 - Wrote the _Shared Submission Groups_ page text through collaborating with SME's
 - Wrote the Jira stories and tasks and reviewed the developer's work for accuracy 
 
-## NCBI _Genome Onboarding Submission Portal_
+## _Genome Onboarding Submission Portal_
 
 _~ Published August 2024_
 
@@ -32,7 +32,7 @@ _~ Published August 2024_
  - Edited the text through collaborating with SME's to improve user guidance
  
 
-## **NCBI SRA Toolkit Wiki**
+## **SRA Toolkit Wiki**
 
 _~ Publishing to the SRA website scheduled for 2025_
 
@@ -42,7 +42,7 @@ For the _SRA Tools GitHub Wiki_,
  - [My Edited SRA Tookit Wiki](https://github.com/jenpetsmit/tk_wiki/wiki) ![offsite](images/offsite.jpg)
  - [Current SRA Toolkit Wiki](https://github.com/ncbi/sra-tools/wiki) ![offsite](images/offsite.jpg) for comparison
 
-## **NCBI STAT Tool**
+## **STAT Tool**
 
 _~ Publishing on hold_
 
@@ -53,7 +53,7 @@ _~ Publishing on hold_
   * [My Edited _How to Download and Use the STAT Tool_](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md) ![offsite](images/offsite.jpg)
   * Current [STAT Tool documentation](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax) ![offsite](images/offsite.jpg) for comparison
  
-## **NIH NCBI E-Utilities API documentation**
+## **EUtilities API documentation**
 
 _~ In progess_
 

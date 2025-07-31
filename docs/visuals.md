@@ -1,6 +1,6 @@
-# Organizational Communications Samples
+# Marketing Samples
 
-Before technical writing, I created websites, wrote newsletters, and edited magazines. Here are some samples:
+Before technical writing, I designed posters, wrote blog posts, created websites, wrote and designed newsletters, and edited magazines. Here are some samples:
 
 
 

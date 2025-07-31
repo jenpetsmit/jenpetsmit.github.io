@@ -35,7 +35,7 @@ I am motivated to help end users achieve their goals by creating content that is
 
 **Senior Technical Writer - National Institutes of Health National Center for Biotechnology Information**
 
-Improving user guidance for the [Shared Submission Groups](documentation-samples.md/#ncbi-submission-portal-shared-submission-groups-feature) ![offsite](images/offsite.jpg) feature and [Genome Onboarding Submission Portal](documentation-samples.md/#ncbi-genome-onboarding-submission-portal) ![offsite](images/offsite.jpg) by:
+Improving user guidance for the [Shared Submission Groups](documentation-samples.md/#submission-portal-shared-submission-groups-feature) ![offsite](images/offsite.jpg) feature and [Genome Onboarding Submission Portal](documentation-samples.md/#genome-onboarding-submission-portal) ![offsite](images/offsite.jpg) by:
 
 * Collaborating with the project owner and managers 
 * Simplifying instructions
@@ -106,7 +106,7 @@ Improving user guidance for the [Shared Submission Groups](documentation-samples
 * Writing the *Help* documentation to use the CRM software
 * Developing a [proposal](visuals.md/#proposal-to-promote-a-crm-software-for-theater-companies) for the company’s website to promote the company's product by showing its advantages
 
-## Skill Sets
+## Skill Sets and Knowledge Areas
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1;">

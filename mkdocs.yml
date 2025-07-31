@@ -3,10 +3,10 @@ nav:
   - Home: index.md
 
   - NIH NCBI Samples:
-    - Documentation Samples: documentation-samples.md
+    - NCBI: documentation-samples.md
     - QA.md
     
-  - Organizational Communications:
+  - Marketing:
     - visuals.md
 
 
@@ -15,7 +15,7 @@ nav:
     - yaml.md
     - webcrawler.md
 
-  - Resume: 
+  - Resumes: 
     - resume.md
 
 theme: readthedocs
