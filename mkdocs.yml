@@ -17,8 +17,10 @@ nav:
     - yaml.md
     - webcrawler.md
 
-  - Resumes: 
-    - resume.md
+  - Websites I Made: 
+    - Portfolio Website 2014: jenniferpetroffsmith.me/jps/index.html
+    - Portfolio Website 2012: jenniferpetroffsmith.md/secondcup/index.htm 
+    - Actor's Website 2010: jenniferpetroffsmith.me/rwsmith3/index.html 
 
 theme: readthedocs
 
