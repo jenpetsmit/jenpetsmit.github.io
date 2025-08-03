@@ -88,3 +88,9 @@ Before technical writing, I designed posters, wrote blog posts, created websites
 [R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html) ![offsite](images/offsite.jpg)
 
 ![Actor's Website](images/rwsmith_home.jpg) 
+
+[Portfolio 2012](jenniferpetroffsmith.md/secondcup/index.htm)
+
+[Portfolio 2014](jenniferpetroffsmith.me/jps/index.html)
+  
+  
