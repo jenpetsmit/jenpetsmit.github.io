@@ -1,7 +1,7 @@
-# NIH NCBI Documentation Samples
+# NIH NCBI Technical Writing Samples
 
-## NIH National Center for Biotechnology Information (NCBI)
- NCBI's mission is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
+ 
+ The mission of the [National Center for Biotechnology Information's (NCBI)](https://www.ncbi.nlm.nih.gov/) ![offsite](images/offsite.jpg)  is to develop new information technologies to aid in the understanding of fundamental molecular and genetic processes that control health and disease
 
  ---
 
@@ -34,7 +34,7 @@ _~ Published August 2024_
 
 ## **SRA Toolkit Wiki**
 
-_~ Publishing to the SRA website scheduled for 2025_
+_~ Publishing to the SRA website scheduled for late 2025_
 
 For the _SRA Tools GitHub Wiki_,  
 - Wrote guidance for a non-technicap audience on how to use command line tools to work with the SRA database.  
@@ -53,12 +53,8 @@ _~ Publishing on hold_
   * [My Edited _How to Download and Use the STAT Tool_](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md) ![offsite](images/offsite.jpg)
   * Current [STAT Tool documentation](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax) ![offsite](images/offsite.jpg) for comparison
  
-## **EUtilities API documentation**
+## MkDocs Website
 
-_~ In progess_
+ 
 
-For the NCBI _E-Utilties API_ documentation, I re-organize the information and present it in a way that is more easier to understand. This work is not currently funded to develop a website that enables >interactivity, so I am creating a pseudosite here to show how I would organize a website (current as of March 2024). 
-
-  - [My Editied E-Utilities API Documentation](https://eutilities.github.io/site/) ![offsite](images/offsite.jpg)
-  - Current [E-Utilities documentation](https://www.ncbi.nlm.nih.gov/books/NBK25500/) ![offsite](images/offsite.jpg) for comparison
-
+This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.

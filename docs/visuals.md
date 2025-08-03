@@ -2,9 +2,9 @@
 
 Before technical writing, I designed posters, wrote blog posts, created websites, wrote and designed newsletters, and edited magazines. Here are some samples:
 
+## Proposals
 
-
-## Proposal to Promote a CRM SoftWare for Theater Companies 
+### Promote a CRM SoftWare for Theater Companies 
 
 * Goal: Increase sales of CRM software by showing the advantages of using [Alliance Software Corporation's](https://wit.edu/directory/aspen-olmsted) ![offsite](images/offsite.jpg) services.
 
@@ -13,29 +13,31 @@ Before technical writing, I designed posters, wrote blog posts, created websites
  
   <div style="flex: 1;">
    
- <p><img src="../images/Alliance-Proposal-New-Front.jpg" alt="Alliance software promotional piece" width="500"></p>
+ <p><img src="../images/Alliance-Proposal-New-Front.jpg" alt="Alliance software promotional piece" width="600"></p>
 
   </div>
 </div>
 
 
 
-## Proposal to Promote a Real Estate Company that Specializes in Short Sales
+### Promote a Real Estate Company that Specializes in Short Sales
 
 * Goal: Assure potential customers of more relaxed experience when dealing with real estate short sales.
-
-
 
 <div style="display: inline-block; gap: 10px;">
  
   <div style="flex: 1;">
-   
- <p><img src="../images/greenappleproposal.png" alt="Green Apple Real Estate Proposal" width="600"></p>
-
-  </div>
+   </div>
 </div>
 
-## *Journal of the Louisiana State Medical Society*
+<img src="../images/greenappleproposal.png" alt="Green Apple Real Estate Proposal" width="600">
+
+
+---
+
+## Print 
+
+### *Journal of the Louisiana State Medical Society*
 
 - Designed the covers and page layouts
 - Edited the text
@@ -61,36 +63,43 @@ Before technical writing, I designed posters, wrote blog posts, created websites
 
 ---
 
-*LSMS Celebrates 125 Years*
-
-![LSMS Celebrates 125 Years](images/journal125.jpg)
-
----
 
 *Physician Assisted Suicide*
 
 ![Physician Assisted Suicide](images/journalphysician.jpg)
 
+---
 
-
-## Theater Banner
+### Theater Banner
 
 * Goal: Entice the General Public to Come to the Play
 * Goal: Provide an idea of the play's plot
     * BTW, the play won a Best of Charleston Award that year!
 
-![Banner for Horse Tranqs & Carriage People](images/banner-copy.jpg)
+![Banner for Horse Tranqs & Carriage People](images/banner-copy.png)
 
+## Websites
 
+### MkDocs Website
 
-## Actor's Website (2010)
+This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
 
-[R.W. Smith](http://jenniferpetroffsmith.me/rwsmith3/index.html) ![offsite](images/offsite.jpg)
+---
 
-![Actor's Website](images/rwsmith_home.jpg) 
+### Previous Websites
 
-[Portfolio 2012](jenniferpetroffsmith.md/secondcup/index.htm)
+These sites represent professional communications work I did prior to 2014. Click to visit!
 
-[Portfolio 2014](jenniferpetroffsmith.me/jps/index.html)
-  
+2010  ![offsite](images/offsite.jpg) <br>
+[![Actor's Website](images/rwsmith_home.jpg)](http://jenniferpetroffsmith.me/rwsmith3/index.html) 
+
+---
+
+2012  ![offsite](images/offsite.jpg) <br>
+[![coffeecup.png](images/coffeecup.png)](http://jenniferpetroffsmith.me/secondcup/index.htm)
+
+---
+
+2014  ![offsite](images/offsite.jpg)<br>
+[![simpleport.png](images/simpleport.png)](http://jenniferpetroffsmith.me/jps/index.html)
   

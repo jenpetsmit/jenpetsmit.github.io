@@ -14,8 +14,9 @@ I rely on these core principles in all my professional writing:
 
 ## Site Links
 
- * [Marketing Samples](visuals.md)
- * [Technical Writing Samples](documentation-samples.md)
+ * Work Samples
+     * [Marketing Samples](visuals.md)
+     * [Technical Writing Samples](documentation-samples.md)
  * Learning New Tech
     * [YAML](yaml.md)
     * [Web Crawler for YouTube Videos](webcrawler.md)
