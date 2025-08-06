@@ -2,14 +2,11 @@ site_name: Jennifer Smith's Portfolio
 nav:
   - Home: index.md
 
-  - Marketing:
-    - visuals.md
+  
 
   - NIH NCBI Samples:
     - Tecnical Writing: documentation-samples.md
     - QA.md
-    
-
 
 
   - Learning New Tech: 
@@ -17,8 +14,8 @@ nav:
     - yaml.md
     - webcrawler.md
 
-  - Websites: 
-     - Websites: visuals/#websites
+  - Marketing:
+    - visuals.md
 
 theme: readthedocs
 

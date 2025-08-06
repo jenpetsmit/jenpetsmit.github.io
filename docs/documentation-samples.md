@@ -53,8 +53,4 @@ _~ Publishing on hold_
   * [My Edited _How to Download and Use the STAT Tool_](https://github.com/jenpetsmit/STAT_Tool/blob/main/STAT_Tool.md) ![offsite](images/offsite.jpg)
   * Current [STAT Tool documentation](https://github.com/ncbi/ngs-tools/tree/tax/tools/tax) ![offsite](images/offsite.jpg) for comparison
  
-## MkDocs Website
 
- 
-
-This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
