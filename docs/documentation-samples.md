@@ -5,12 +5,7 @@
 
  ---
 
-## MkDocs Site for API Documentation 
 
-
-[EUtilities API Documentation](https://eutilities.github.io/site/) ![Offsite](images/offsite.jpg) - Work in Progress
-
-This is a MkDocs static site designed to support API documentation, including an interactive Swagger-UI for testing.
 
 ---
 ## Submission Portal _Shared Submission Groups_ Feature

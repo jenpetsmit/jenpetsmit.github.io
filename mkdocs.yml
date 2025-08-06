@@ -3,16 +3,14 @@ nav:
   - Home: index.md
 
   
+  - Learning New Tech: 
+    - api.md
+    - webcrawler.md
 
   - NIH NCBI Samples:
-    - Tecnical Writing: documentation-samples.md
+    - Tecnical Writing Samples: documentation-samples.md
     - QA.md
 
-
-  - Learning New Tech: 
-
-    - yaml.md
-    - webcrawler.md
 
   - Marketing:
     - visuals.md
