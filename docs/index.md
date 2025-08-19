@@ -1,7 +1,8 @@
 
 # Welcome to Jen Smith's Portfolio
 
-Hello and thanks for visiting!
+Hello and thanks for visiting! &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;![cartoon me](images/cartoonme.png)
+
 
 I’ve worked as a technical writer since 2015, beginning with user instructions for the Veterans Benefits Management System (VBMS). From there, I documented system architecture and authored SOPs for a big data initiative for the U.S. Marine Corps. Currently, I support the National Center for Biotechnology Information (NCBI) at the National Institutes of Health (NIH), where I’m updating API documentation for the E-utilities. See my [MkDocs Site for NCBI API Documentation](https://eutilities.github.io/site/)
 

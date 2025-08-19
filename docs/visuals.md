@@ -84,7 +84,7 @@ Before technical writing, I designed posters, wrote blog posts, created websites
 
 This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
 
----
+ 
 
 ###  Websites
 
@@ -92,7 +92,6 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 [![Actor's Website](images/Hangman.png)](https://rwsmith.net/)
 
-Websites from before 2014. Click to visit!
 
 2010  ![offsite](images/offsite.jpg) <br>
 [![Actor's Website](images/rwsmith_home.jpg)](http://jenniferpetroffsmith.me/rwsmith3/index.html) 
