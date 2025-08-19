@@ -90,7 +90,7 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 2025
 
-[![Actor's Website](images/Hangman.jpg)](https://rwsmith.net/)
+[![Actor's Website](images/Hangman.png)](https://rwsmith.net/)
 
 Websites from before 2014. Click to visit!
 
