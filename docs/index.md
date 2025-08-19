@@ -18,7 +18,6 @@ I rely on these core principles in all my professional writing:
      
      * [Technical Writing Samples](documentation-samples.md)
      * [Marketing Samples](visuals.md)
-     
  * Learning New Tech
     * [OpenAPI](api.md)
     * [Web Crawler for YouTube Videos](webcrawler.md)
