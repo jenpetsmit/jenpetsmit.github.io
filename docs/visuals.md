@@ -4,33 +4,39 @@ Before technical writing, I designed posters, wrote blog posts, created websites
 
 ## Websites
 
-### MkDocs Website
-
+#### [MkDocs Website](https://jenpetsmit.github.io) <br>
 This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
 
-![This Site](images/pagessite.png)
+[![This Site](images/pagessite.png)](https://jenpetsmit.github.io)
 
+&nbsp;
 
-
- [2025 Actor Portfolio](https://rwsmith.net/) ![offsite](images/offsite.jpg)
-
+#### [2025 Actor Portfolio](https://rwsmith.net/) ![offsite](images/offsite.jpg)<br>
 [![Actor's Website](images/Hangman.png)](https://rwsmith.net/) 
+&nbsp;
 
+&nbsp;
 
-[2010 Actor Portfolio](http://jenniferpetroffsmith.me/rwsmith3/index.html) ![offsite](images/offsite.jpg) <br>
+#### [2010 Actor Portfolio](http://jenniferpetroffsmith.me/rwsmith3/index.html) ![offsite](images/offsite.jpg) <br>
 [![Actor's Website](images/rwsmith_home.jpg)](http://jenniferpetroffsmith.me/rwsmith3/index.html) 
 
----
 
- [2012 Portfolio](http://jenniferpetroffsmith.me/secondcup/index.htm)   ![offsite](images/offsite.jpg) <br>
+
+&nbsp;
+
+####  [2012 Portfolio](http://jenniferpetroffsmith.me/secondcup/index.htm)   ![offsite](images/offsite.jpg) <br>
 [![coffeecup.png](images/coffeecup.png)](http://jenniferpetroffsmith.me/secondcup/index.htm)
 
----
 
-[__2014  Portfolio__](http://jenniferpetroffsmith.me/jps/index.html) ![offsite](images/offsite.jpg)<br>
+
+&nbsp;
+
+#### [2014  Portfolio](http://jenniferpetroffsmith.me/jps/index.html) ![offsite](images/offsite.jpg)<br>
 [![simpleport.png](images/simpleport.png)](http://jenniferpetroffsmith.me/jps/index.html)
   
+&nbsp;
 
+---
 
 ## Proposals
 
@@ -39,7 +45,8 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 * Goal: Increase sales of CRM software by showing the advantages of using [Alliance Software Corporation's](https://wit.edu/directory/aspen-olmsted) ![offsite](images/offsite.jpg) services.
 
 
-<div style="display: inline-block; gap: 10px;">
+
+
  
   <div style="flex: 1;">
    
@@ -48,6 +55,7 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
   </div>
 </div>
 
+&nbsp;
 
 
 ### Promote a Real Estate Company that Specializes in Short Sales
@@ -62,6 +70,19 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 <img src="../images/greenappleproposal.png" alt="Green Apple Real Estate Proposal" width="600">
 
+
+&nbsp;
+
+
+### Theater Banner
+
+* Goal: Entice the General Public to Come to the Play
+* Goal: Provide an idea of the play's plot
+    * BTW, the play won a Best of Charleston Award that year!
+
+![Banner for Horse Tranqs & Carriage People](images/banner-copy1.png)
+
+&nbsp;
 
 ---
 
@@ -100,11 +121,5 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 ---
 
-### Theater Banner
 
-* Goal: Entice the General Public to Come to the Play
-* Goal: Provide an idea of the play's plot
-    * BTW, the play won a Best of Charleston Award that year!
-
-![Banner for Horse Tranqs & Carriage People](images/banner-copy.png)
 
