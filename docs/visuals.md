@@ -1,4 +1,4 @@
-# Marketing 
+# Content 
 
 Before technical writing, I designed posters, wrote blog posts, created websites, wrote and designed newsletters, and edited magazines. Here are some samples:
 
@@ -12,22 +12,22 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 
 
-### 2025 Actor Portfolio ![offsite](images/offsite.jpg)
+ [2025 Actor Portfolio](https://rwsmith.net/) ![offsite](images/offsite.jpg)
 
 [![Actor's Website](images/Hangman.png)](https://rwsmith.net/) 
 
 
-### 2010 Actor Portfolio ![offsite](images/offsite.jpg) <br>
+### [2010 Actor Portfolio](http://jenniferpetroffsmith.me/rwsmith3/index.html) ![offsite](images/offsite.jpg) <br>
 [![Actor's Website](images/rwsmith_home.jpg)](http://jenniferpetroffsmith.me/rwsmith3/index.html) 
 
 ---
 
-###  2012 Portfolio   ![offsite](images/offsite.jpg) <br>
+###  [2012 Portfolio](http://jenniferpetroffsmith.me/secondcup/index.htm)   ![offsite](images/offsite.jpg) <br>
 [![coffeecup.png](images/coffeecup.png)](http://jenniferpetroffsmith.me/secondcup/index.htm)
 
 ---
 
-### 2014  Portfolio ![offsite](images/offsite.jpg)<br>
+### [__2014  Portfolio__](http://jenniferpetroffsmith.me/jps/index.html) ![offsite](images/offsite.jpg)<br>
 [![simpleport.png](images/simpleport.png)](http://jenniferpetroffsmith.me/jps/index.html)
   
 

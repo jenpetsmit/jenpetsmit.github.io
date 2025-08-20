@@ -1,4 +1,6 @@
 site_name: Jennifer Smith's Portfolio
+extra_css:
+  - css/custom.css
 nav:
   - Home: index.md
 
@@ -15,7 +17,7 @@ nav:
   - Content Samples:
     - visuals.md
 
-  
+
 
 
 theme: readthedocs

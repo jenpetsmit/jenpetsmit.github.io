@@ -6,3 +6,7 @@ img {
 img.shrink {
   width: 300px;
 }
+
+.md-typeset a {
+            text-decoration: underline;
+        }
