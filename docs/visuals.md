@@ -1,6 +1,36 @@
-# Marketing Samples
+# Marketing 
 
 Before technical writing, I designed posters, wrote blog posts, created websites, wrote and designed newsletters, and edited magazines. Here are some samples:
+
+## Websites
+
+### MkDocs Website
+
+This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
+
+![This Site](images/pagessite.png)
+
+
+
+### 2025 Actor Portfolio ![offsite](images/offsite.jpg)
+
+[![Actor's Website](images/Hangman.png)](https://rwsmith.net/) 
+
+
+### 2010 Actor Portfolio ![offsite](images/offsite.jpg) <br>
+[![Actor's Website](images/rwsmith_home.jpg)](http://jenniferpetroffsmith.me/rwsmith3/index.html) 
+
+---
+
+###  2012 Portfolio   ![offsite](images/offsite.jpg) <br>
+[![coffeecup.png](images/coffeecup.png)](http://jenniferpetroffsmith.me/secondcup/index.htm)
+
+---
+
+### 2014  Portfolio ![offsite](images/offsite.jpg)<br>
+[![simpleport.png](images/simpleport.png)](http://jenniferpetroffsmith.me/jps/index.html)
+  
+
 
 ## Proposals
 
@@ -78,31 +108,3 @@ Before technical writing, I designed posters, wrote blog posts, created websites
 
 ![Banner for Horse Tranqs & Carriage People](images/banner-copy.png)
 
-## Websites
-
-### MkDocs Website
-
-This website is made from my [GitHub repository](https://github.com/jenpetsmit) using the [MkDocs](https://www.mkdocs.org/) static site format.
-
- 
-
-###  Websites
-
-2025
-
-[![Actor's Website](images/Hangman.png)](https://rwsmith.net/)
-
-
-2010  ![offsite](images/offsite.jpg) <br>
-[![Actor's Website](images/rwsmith_home.jpg)](http://jenniferpetroffsmith.me/rwsmith3/index.html) 
-
----
-
-2012  ![offsite](images/offsite.jpg) <br>
-[![coffeecup.png](images/coffeecup.png)](http://jenniferpetroffsmith.me/secondcup/index.htm)
-
----
-
-2014  ![offsite](images/offsite.jpg)<br>
-[![simpleport.png](images/simpleport.png)](http://jenniferpetroffsmith.me/jps/index.html)
-  
