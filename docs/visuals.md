@@ -1,6 +1,6 @@
 # Content 
 
-Before technical writing, I designed posters, wrote blog posts, created websites, wrote and designed newsletters, and edited magazines. Here are some samples:
+I have 10 years of experience producing rich content. I designed posters, wrote blog posts, created websites,  wrote and designed newsletters, and edited medical journals.  
 
 ## Websites
 
