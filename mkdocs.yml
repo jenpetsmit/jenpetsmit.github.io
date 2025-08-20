@@ -5,19 +5,19 @@ nav:
   - Home: index.md
 
   
-  - Learning New Tech: 
-    - api.md
-    - webcrawler.md
+  - Content Samples:
+    - visuals.md
+
+
+ 
 
   - NIH NCBI Samples:
     - Tecnical Writing Samples: documentation-samples.md
     - QA.md
 
-
-  - Content Samples:
-    - visuals.md
-
-
+  - Learning New Tech: 
+    - api.md
+    - webcrawler.md
 
 
 theme: readthedocs
