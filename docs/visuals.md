@@ -13,7 +13,7 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 #### [2025 Actor Portfolio](https://rwsmith.net/) ![offsite](images/offsite.jpg)<br>
 [![Actor's Website](images/Hangman.png)](https://rwsmith.net/) 
-&nbsp;
+
 
 &nbsp;
 
@@ -45,15 +45,8 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 * Goal: Increase sales of CRM software by showing the advantages of using [Alliance Software Corporation's](https://wit.edu/directory/aspen-olmsted) ![offsite](images/offsite.jpg) services.
 
 
+![Alliance Software Corporation promotional piece](images/Alliance-Proposal-New-Front.jpg)
 
-
- 
-  <div style="flex: 1;">
-   
- <p><img src="../images/Alliance-Proposal-New-Front.jpg" alt="Alliance software promotional piece" width="600"></p>
-
-  </div>
-</div>
 
 &nbsp;
 
@@ -62,11 +55,7 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 * Goal: Assure potential customers of more relaxed experience when dealing with real estate short sales.
 
-<div style="display: inline-block; gap: 10px;">
- 
-  <div style="flex: 1;">
-   </div>
-</div>
+
 
 <img src="../images/greenappleproposal.png" alt="Green Apple Real Estate Proposal" width="600">
 
@@ -90,9 +79,8 @@ This website is made from my [GitHub repository](https://github.com/jenpetsmit) 
 
 ### *Journal of the Louisiana State Medical Society*
 
-- Designed the covers and page layouts
-- Edited the text
-
+* Designed the covers and page layouts  
+* Edited the text
 
 
 
