@@ -18,12 +18,11 @@ I rely on these core principles in all my professional writing:
 ## Site Links
 
  
-   
-  * [Content Samples](visuals.md)
   * [Technical Writing Samples](documentation-samples.md)
   * [Learning New Tech](api.md)
-  * [OpenAPI](api.md)
-  * [Web Crawler for YouTube Videos](webcrawler.md)
+    * [MkDocs Site for API Documentation (OpenAPI)](api.md)
+    * [Web Crawler for YouTube Videos](webcrawler.md)
+  * [Content Samples](visuals.md)
  
 
 ### Let's Connect!
